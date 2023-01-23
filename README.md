@@ -1,5 +1,5 @@
 # SohojPay Request (GET Method):
-https://sohojpaybd.com/app/api/topup.php?access_id=01XXXXXX&access_key=XXXXXX&number=01XXXXXXX&amount=XX&type=Prepaid
+https://auto.superstarfamily.press/app/api/topup.php?access_id=01XXXXXX&access_key=XXXXXX&number=01XXXXXXX&amount=XX&type=Prepaid
 
 # API Output
 On Error:
