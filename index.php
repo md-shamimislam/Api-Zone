@@ -6,7 +6,7 @@ $number = "XXXXXXX"; // TopUp Number
 $amount = "XX"; // TopUp Amount
 $type = "Prepaid"; // Type [Prepaid/Postpaid/Skitto]
 
-$url = "https://sohojpaybd.com/app/api/topup.php?access_id=$apiaccount&access_key=$apikey&number=$number&amount=$amount&type=$type";
+$url = "https://auto.superstarfamily.press/app/api/topup.php?access_id=$apiaccount&access_key=$apikey&number=$number&amount=$amount&type=$type";
 
 $curl = curl_init($url);
 curl_setopt($curl, CURLOPT_URL, $url);
